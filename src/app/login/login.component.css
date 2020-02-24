@@ -1,0 +1,17 @@
+.loginContainer {
+    background-image: url('/assets/img/msnbg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .avatarFrame{
+    background: #ffffff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffffff),color-stop(45%, #eae5e5),color-stop(47%, #c1bdbd),to(#bab6b6));
+    background: linear-gradient(to bottom, #ffffff 0%,#eae5e5 45%,#c1bdbd 47%,#bab6b6 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#bab6b6',GradientType=0 );
+    text-align: center;
+    padding: 5%;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.36);
+    box-shadow: 3px 3px 21px 1px rgba(0,0,0,0.75);
+  }
