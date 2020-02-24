@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# chat-example-Angular-6
+chat similar al messenger desarrollado con Angular y Firebase
+>>>>>>> c6e04316e3ae24324e939c60ffe1216597e120a5
