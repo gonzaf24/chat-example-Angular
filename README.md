@@ -4,6 +4,22 @@
 
 Chat similar al messenger, realizado en Angular y Firebase. 
 
+@angular-devkit/architect         0.803.25
+@angular-devkit/build-angular     0.803.25
+@angular-devkit/build-optimizer   0.803.25
+@angular-devkit/build-webpack     0.803.25
+@angular-devkit/core              8.3.25
+@angular-devkit/schematics        8.3.25
+@angular/cli                      8.3.25
+@angular/fire                     5.4.2
+@angular/pwa                      0.900.3
+@ngtools/webpack                  8.3.25
+@schematics/angular               8.3.25
+@schematics/update                0.803.25
+rxjs                              6.4.0
+typescript                        3.5.3
+webpack                           4.39.2
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
 ## Development server
