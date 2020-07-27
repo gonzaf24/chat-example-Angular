@@ -9,10 +9,10 @@ DEMO : https://chatexampleangular6.web.app/
 
 -----------------------------------
 User prueba: ddd@sss.com
-Pass prueba: 123456
+Pass : 123456
 -----------------------------------
 User prueba: gonzalo@gonzalo.com
-Pass prueba: gonzalo
+Pass : gonzalo
 -----------------------------------
 
 Tambien puedes registrarte tu mismo, e iniciar sesion.
