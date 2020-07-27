@@ -7,8 +7,13 @@ Chat similar al messenger, realizado en Angular y Firebase.
 
 DEMO : https://chatexampleangular6.web.app/
 
+-----------------------------------
 User prueba: ddd@sss.com
 Pass prueba: 123456
+-----------------------------------
+User prueba: gonzalo@gonzalo.com
+Pass prueba: gonzalo
+-----------------------------------
 
 Tambien puedes registrarte tu mismo, e iniciar sesion.
 
