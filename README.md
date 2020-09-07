@@ -15,7 +15,7 @@ User prueba: gonzalo@gonzalo.com
 Pass : gonzalo
 -----------------------------------
 
-Tambien puedes registrarte tu mismo, e iniciar sesion.
+Tambien puedes registrarte tu mismo e iniciar sesion.
 
 <br>
 <img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/chatAngular.png">
